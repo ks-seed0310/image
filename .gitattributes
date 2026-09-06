@@ -1,0 +1,155 @@
+# ======================================================================
+# 【完全版】バイナリファイルの自動変換防止設定 (.gitattributes)
+# ======================================================================
+
+# ----------------------------------------------------------------------
+# 画像・デザインファイル (Images & Design Tools)
+# ----------------------------------------------------------------------
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.bmp binary
+*.tiff binary
+*.tif binary
+*.heic binary
+*.heif binary
+*.avif binary
+*.psd binary
+*.psb binary
+*.ai binary
+*.indd binary
+*.xd binary
+*.fig binary
+*.sketch binary
+*.clip binary
+*.xcf binary
+
+# ----------------------------------------------------------------------
+# 音声ファイル (Audio)
+# ----------------------------------------------------------------------
+*.mp3 binary
+*.wav binary
+*.ogg binary
+*.m4a binary
+*.flac binary
+*.aac binary
+*.wma binary
+*.mid binary
+*.midi binary
+*.aif binary
+*.aiff binary
+
+# ----------------------------------------------------------------------
+# 動画・アニメーションファイル (Video & Animation)
+# ----------------------------------------------------------------------
+*.mp4 binary
+*.mkv binary
+*.avi binary
+*.mov binary
+*.wmv binary
+*.webm binary
+*.flv binary
+*.mpeg binary
+*.mpg binary
+*.m4v binary
+*.3gp binary
+*.ts binary
+*.vob binary
+
+# ----------------------------------------------------------------------
+# 3Dモデル・CAD・ゲーム資産 (3D, CAD & Game Assets)
+# ----------------------------------------------------------------------
+*.fbx binary
+*.obj binary
+*.max binary
+*.blend binary
+*.c4d binary
+*.ma binary
+*.mb binary
+*.stl binary
+*.step binary
+*.stp binary
+*.iges binary
+*.igs binary
+*.dxf binary
+*.dwg binary
+*.unitypackage binary
+*.uasset binary
+*.umap binary
+
+# ----------------------------------------------------------------------
+# 圧縮・アーカイブファイル (Archives & Disk Images)
+# ----------------------------------------------------------------------
+*.zip binary
+*.tar binary
+*.gz binary
+*.rar binary
+*.7z binary
+*.tgz binary
+*.bz2 binary
+*.xz binary
+*.sitx binary
+*.iso binary
+*.dmg binary
+*.vmdk binary
+*.vhd binary
+
+# ----------------------------------------------------------------------
+# ビジネス・オフィス書類 (Office Documents)
+# ----------------------------------------------------------------------
+*.pdf binary
+*.doc binary
+*.docx binary
+*.xls binary
+*.xlsx binary
+*.ppt binary
+*.pptx binary
+*.docm binary
+*.xlsm binary
+*.pptm binary
+*.dotx binary
+*.xltx binary
+*.potx binary
+*.pages binary
+*.numbers binary
+*.key binary
+*.epub binary
+
+# ----------------------------------------------------------------------
+# フォントファイル (Fonts)
+# ----------------------------------------------------------------------
+*.ttf binary
+*.otf binary
+*.woff binary
+*.woff2 binary
+*.eot binary
+*.fon binary
+
+# ----------------------------------------------------------------------
+# 実行ファイル・ビルド成果物・ライブラリ (Executables & Libraries)
+# ----------------------------------------------------------------------
+*.exe binary
+*.dll binary
+*.sys binary
+*.lnk binary
+*.app binary
+*.ipa binary
+*.apk binary
+*.aab binary
+*.jar binary
+*.war binary
+*.ear binary
+*.so binary
+*.o binary
+*.a binary
+*.lib binary
+*.dylib binary
+*.bin binary
+*.dat binary
+*.hex binary
+*.db binary
+*.sqlite binary
+*.pcap binary
