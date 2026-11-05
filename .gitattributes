@@ -5,151 +5,143 @@
 # ----------------------------------------------------------------------
 # 画像・デザインファイル (Images & Design Tools)
 # ----------------------------------------------------------------------
-*.png binary
-*.jpg binary
-*.jpeg binary
-*.gif binary
-*.webp binary
-*.ico binary
-*.bmp binary
-*.tiff binary
-*.tif binary
-*.heic binary
-*.heif binary
-*.avif binary
-*.psd binary
-*.psb binary
-*.ai binary
-*.indd binary
-*.xd binary
-*.fig binary
-*.sketch binary
-*.clip binary
-*.xcf binary
-
+*.png binary -diff
+*.jpg binary -diff
+*.jpeg binary -diff
+*.gif binary -diff
+*.webp binary -diff
+*.ico binary -diff
+*.bmp binary -diff
+*.tiff binary -diff
+*.tif binary -diff
+*.heic binary -diff
+*.heif binary -diff
+*.avif binary -diff
+*.psd binary -diff
+*.psb binary -diff
+*.ai binary -diff
+*.indd binary -diff
+*.xd binary -diff
+*.fig binary -diff
+*.sketch binary -diff
+*.clip binary -diff
+*.xcf binary -diff
 # ----------------------------------------------------------------------
 # 音声ファイル (Audio)
 # ----------------------------------------------------------------------
-*.mp3 binary
-*.wav binary
-*.ogg binary
-*.m4a binary
-*.flac binary
-*.aac binary
-*.wma binary
-*.mid binary
-*.midi binary
-*.aif binary
-*.aiff binary
-
+*.mp3 binary -diff
+*.wav binary -diff
+*.ogg binary -diff
+*.m4a binary -diff
+*.flac binary -diff
+*.aac binary -diff
+*.wma binary -diff
+*.mid binary -diff
+*.midi binary -diff
+*.aif binary -diff
+*.aiff binary -diff
 # ----------------------------------------------------------------------
 # 動画・アニメーションファイル (Video & Animation)
 # ----------------------------------------------------------------------
-*.mp4 binary
-*.mkv binary
-*.avi binary
-*.mov binary
-*.wmv binary
-*.webm binary
-*.flv binary
-*.mpeg binary
-*.mpg binary
-*.m4v binary
-*.3gp binary
-*.ts binary
-*.vob binary
-
+*.mp4 binary -diff
+*.mkv binary -diff
+*.avi binary -diff
+*.mov binary -diff
+*.wmv binary -diff
+*.webm binary -diff
+*.flv binary -diff
+*.mpeg binary -diff
+*.mpg binary -diff
+*.m4v binary -diff
+*.3gp binary -diff
+*.vob binary -diff
 # ----------------------------------------------------------------------
 # 3Dモデル・CAD・ゲーム資産 (3D, CAD & Game Assets)
 # ----------------------------------------------------------------------
-*.fbx binary
-*.obj binary
-*.max binary
-*.blend binary
-*.c4d binary
-*.ma binary
-*.mb binary
-*.stl binary
-*.step binary
-*.stp binary
-*.iges binary
-*.igs binary
-*.dxf binary
-*.dwg binary
-*.unitypackage binary
-*.uasset binary
-*.umap binary
-
+*.fbx binary -diff
+*.obj binary -diff
+*.max binary -diff
+*.blend binary -diff
+*.c4d binary -diff
+*.ma binary -diff
+*.mb binary -diff
+*.stl binary -diff
+*.step binary -diff
+*.stp binary -diff
+*.iges binary -diff
+*.igs binary -diff
+*.dxf binary -diff
+*.dwg binary -diff 
+*.unitypackage binary -diff
+*.uasset binary -diff
+*.umap binary -diff
 # ----------------------------------------------------------------------
 # 圧縮・アーカイブファイル (Archives & Disk Images)
 # ----------------------------------------------------------------------
-*.zip binary
-*.tar binary
-*.gz binary
-*.rar binary
-*.7z binary
-*.tgz binary
-*.bz2 binary
-*.xz binary
-*.sitx binary
-*.iso binary
-*.dmg binary
-*.vmdk binary
-*.vhd binary
-
+*.zip binary -diff
+*.tar binary -diff
+*.gz binary -diff
+*.rar binary -diff
+*.7z binary -diff
+*.tgz binary -diff
+*.bz2 binary -diff
+*.xz binary -diff
+*.sitx binary -diff
+*.iso binary -diff
+*.dmg binary -diff
+*.vmdk binary -diff
+*.vhd binary -diff
 # ----------------------------------------------------------------------
 # ビジネス・オフィス書類 (Office Documents)
 # ----------------------------------------------------------------------
-*.pdf binary
-*.doc binary
-*.docx binary
-*.xls binary
-*.xlsx binary
-*.ppt binary
-*.pptx binary
-*.docm binary
-*.xlsm binary
-*.pptm binary
-*.dotx binary
-*.xltx binary
-*.potx binary
-*.pages binary
-*.numbers binary
-*.key binary
-*.epub binary
-
+*.pdf binary -diff
+*.doc binary -diff
+*.docx binary -diff
+*.xls binary -diff
+*.xlsx binary -diff
+*.ppt binary -diff
+*.pptx binary -diff
+*.docm binary -diff
+*.xlsm binary -diff
+*.pptm binary -diff
+*.dotx binary -diff
+*.xltx binary -diff
+*.potx binary -diff
+*.pages binary -diff
+*.numbers binary -diff
+*.key binary -diff
+*.epub binary -diff
 # ----------------------------------------------------------------------
 # フォントファイル (Fonts)
 # ----------------------------------------------------------------------
-*.ttf binary
-*.otf binary
-*.woff binary
-*.woff2 binary
-*.eot binary
-*.fon binary
-
+*.ttf binary -diff
+*.otf binary -diff
+*.woff binary -diff
+*.woff2 binary -diff
+*.eot binary -diff
+*.fon binary -diff
 # ----------------------------------------------------------------------
 # 実行ファイル・ビルド成果物・ライブラリ (Executables & Libraries)
 # ----------------------------------------------------------------------
-*.exe binary
-*.dll binary
-*.sys binary
-*.lnk binary
-*.app binary
-*.ipa binary
-*.apk binary
-*.aab binary
-*.jar binary
-*.war binary
-*.ear binary
-*.so binary
-*.o binary
-*.a binary
-*.lib binary
-*.dylib binary
-*.bin binary
-*.dat binary
-*.hex binary
-*.db binary
-*.sqlite binary
-*.pcap binary
+*.exe binary -diff
+*.dll binary -diff
+*.sys binary -diff
+*.lnk binary -diff
+*.app binary -diff
+*.ipa binary -diff
+*.apk binary -diff
+*.aab binary -diff
+*.jar binary -diff
+*.war binary -diff
+*.ear binary -diff
+*.so binary -diff
+*.o binary -diff
+*.a binary -diff
+*.lib binary -diff
+*.dylib binary -diff
+*.bin binary -diff
+*.dat binary -diff
+*.hex binary -diff
+*.db binary -diff
+*.sqlite binary -diff
+*.pcap binary -diff
